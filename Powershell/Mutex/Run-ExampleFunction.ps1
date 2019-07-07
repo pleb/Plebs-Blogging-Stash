@@ -1,4 +1,4 @@
-function Example {
+function ExampleFunction {
   begin { 
     Write-Output "Function begin"
   }
@@ -10,4 +10,4 @@ function Example {
   }
 }
 
-Example
+ExampleFunction
